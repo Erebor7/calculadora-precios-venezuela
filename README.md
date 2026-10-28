@@ -7,7 +7,7 @@
 
 # Créditos a Erebor7 (A.G) por el desarrollo integral de esta app PWA (Aplicación Web Progresiva).
 
-Términos de Uso, Aviso Legal y Exención de Responsabilidad
+# Términos de Uso, Aviso Legal y Exención de Responsabilidad
 1. Información General (Aviso Legal)
 La aplicación móvil "Calculadora de Precios Venezuela" es una aplicación web progresiva (PWA) desarrollada y administrada por Alexander Galindez, desarrollador independiente y entusiasta. Para consultas o soporte, puede ponerse en contacto a través de galindez858@gmail.com.
 
